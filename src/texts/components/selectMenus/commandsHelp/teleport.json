@@ -1,0 +1,8 @@
+{
+  "color": "aa22cc",
+  "fields": [{
+    "name": "Teleport",
+    "value": "\u2022 teleporting to the world spawn: `/spawn`\n\u2022 teleporting to another player: `/tpa <player>`\n\u2022 inviting another player to teleport to you: `/tpahere <player>`\n\u2022 teleporting to your previous location (before your last teleport or before dying): `/back`",
+    "inline": false
+  }]
+}

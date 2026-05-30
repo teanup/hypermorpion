@@ -1,0 +1,9 @@
+{
+  "color": "66ff88",
+  "title": "Embed updated",
+  "description": ":white_check_mark:  The **`${msgName}`** embed has been updated in <#${channelId}>:",
+  "author": {
+    "name": "View message",
+    "url": "https://discord.com/channels/${guildId}/${channelId}/${messageId}"
+  }
+}

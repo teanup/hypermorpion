@@ -1,0 +1,56 @@
+{
+  "color": "aa22cc",
+  "title": "Minecraft Server",
+  "fields": [
+    {
+      "name": "IP Address",
+      "value": "```craft.peanut.tf```",
+      "inline": true
+    },
+    {
+      "name": "Version",
+      "value": "**Java 1.19.4** \u2000 (running [PaperMC](https://papermc.io/software/paper))",
+      "inline": true
+    },
+    {
+      "name": "\u200b\nDiscord verification",
+      "value": "When joining the server for the first time, you'll have to send a given 4-digit code to <@928367846994636820> and re-join the server afterwards.\nIf a friend of yours doesn't have Discord, contact an <@&699609956902633472> and we'll allow them to join the server anyway.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nEn rejoignant le serveur pour la premi\u00e8re fois, vous devrez envoyer un code donn\u00e9 \u00e0 4 chiffres \u00e0 <@928367846994636820>, et retourner sur le serveur ensuite.\nSi un.e de vos amis n'a pas Discord, contactez un <@&699609956902633472> et nous l'autoriserons à rejoindre le serveur quand même.\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Seed",
+      "value": "```\n5062889887829818503\n```",
+      "inline": true
+    },
+    {
+      "name": "Gamerules",
+      "value": "\u2022 __Game mode:__ \u2000 ` Survival `\n\u2022 __Difficulty:__ \u2000 ` Normal `\n\u2022 __PvP:__ \u2000 ` true `\n\u2022 __Idle timeout:__ \u2000 ` 8 hours `",
+      "inline": true
+    },
+    {
+      "name": "Offline mode",
+      "value": "Cracked versions of Minecraft are allowed to join the server, so if you notice in <#944946004636073984> that someone else joined the server with your username, please warn an <@&699609956902633472>.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLes versions crack\u00e9es de Minecraft sont aussi autoris\u00e9es \u00e0 rejoindre le serveur, donc si vous remarquez dans <#944946004636073984> que quelqu'un d'autre a rejoint le serveur avec votre username, merci d'avertir un <@&699609956902633472>.\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Dynamic Map",
+      "value": "You check the server's dynamic map and other information by [clicking here](https://craft.peanut.tf/map).\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nVous pouvez jeter un coup d'\u0153il à la carte dynamique du serveur et à d'autres informations en [cliquant ici](https://craft.peanut.tf/map).\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Plugins & Datapacks",
+      "value": "\u2022 [AuthMe](https://www.spigotmc.org/resources/authmereloaded.6269/)\n\u2022 [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)\n\u2022 [LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)\n\u2022 [FreedomChat](https://github.com/e-im/FreedomChat)",
+      "inline": true
+    },
+    {
+      "name": "\u200b",
+      "value": "\u2022 [AdvancedTeleport](https://www.spigotmc.org/resources/advancedteleport.64139/)\n\u2022 [PaperTweaks](https://www.spigotmc.org/resources/paper-tweaks-vanilla-tweaks-replacement.81288/)\n\u2022 [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/)\n\u2022 [VeinMiner](https://www.spigotmc.org/resources/veinminer.12038/)",
+      "inline": true
+    },
+    {
+      "name": "\u200b",
+      "value": "\u2022 [TreeAssist](https://www.spigotmc.org/resources/treeassist.67436/)\n\u2022 [JukeLooper](https://www.spigotmc.org/resources/jukelooper.72895/)\n\u2022 [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)\n\u2022 [Geyser](https://geysermc.org/)",
+      "inline": true
+    }
+  ]
+}

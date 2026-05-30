@@ -5,6 +5,7 @@
 HyperMorpion is a *mini-games* Discord bot originally created to implement the game of "hyper tic-tac-toe", a much more complex and ~~hard~~ fun version of Tic-tac-toe. 
 It comes with French and English translations so far (people may help adding a new one in the future) and allows you to play HyperMorpion, Tic-tac-toe, and maybe other games in the future!
 
+![](./922573371114414171_game.gif)
 
 ### Creation
 

@@ -1,0 +1,8 @@
+{
+  "color": "aa22cc",
+  "fields": [{
+    "name": "Mob Grief",
+    "value": "The `mobGriefing` gamerule is set to `true` but creepers and ghasts deal damage without breaking surrounding blocks. Creepers will also explode in \"confettis\" (firework stars), which still deals damage.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLa gamerule `mobGriefing` est sur `true` mais les creepers et les ghasts font des d\u00e9g\u00e2ts sans casser les blocs autour. Les creepers exploseront d'ailleurs en \"confettis\" (\u00e9toiles de feu d'artifice), qui infligent toujours des d\u00e9g\u00e2ts.",
+    "inline": false
+  }]
+}

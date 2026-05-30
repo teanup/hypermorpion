@@ -1,0 +1,22 @@
+{
+  "color": "ff8800",
+  "title": "Moderation",
+  "description": "In order to keep this server safe, a few moderation methods are available.\nIf you ever need to delete a lot of messages at once, don't forget about the <@928367846994636820> clearing command: ```\n/clear\n```\nAlso, think about talking with other mods and admins about a situation if you're not sure of how it should be handled.\n\u200b",
+  "fields": [
+    {
+      "name": "Little misbehaviors",
+      "value": "For a tiny slip, it is generally enough to simply warn the user, or timeout them if this may help.\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Serious disagreements",
+      "value": "Regarding more serious disagreements, a <@928367846994636820> command is available: ```\n/jail <user>\n```This will remove the user's <@&699612261697847316> role, making them only have access to the <#941385199516786758> channel.\nThis way, you can easily prevent them from causing trouble to the rest of the server and can have a private talk with them.\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Major issues",
+      "value": "In some very serious cases only, you're allowed to kick a user from the server.",
+      "inline": false
+    }
+  ]
+}

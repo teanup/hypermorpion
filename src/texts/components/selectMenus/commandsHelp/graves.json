@@ -1,0 +1,8 @@
+{
+  "color": "aa22cc",
+  "fields": [{
+    "name": "Graves",
+    "value": "When dying, your inventory and part of your XP will be kept in a grave at the coordinates where you died. Right-clicking on it will make you retrieve everything.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nEn mourant, votre inventaire et une partie de votre XP seront conserv\u00e9s dans une tombe aux coordonn\u00e9es o\u00f9 vous \u00eates mort. En faisant un clic droit dessus, vous pourrez tout r\u00e9cup\u00e9rer.",
+    "inline": false
+  }]
+}

@@ -1,0 +1,41 @@
+{
+  "color": "eeaa00",
+  "title": "Basic features | Fonctionnalit\u00e9s de base",
+  "fields": [
+    {
+      "name": "Homes",
+      "value": "Homes are your personal teleporting points: you are the only one to access them.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLes *homes* sont vos points de t\u00e9l\u00e9portations personnels : vous seuls y avez acc\u00e8s.\n\n\u2022 setting a home: `/sethome <home name>`\n\u2022 setting a home as your main home: `/setmainhome <home name>`\n\u2022 teleporting to a home: `/home <home name>` or `/home` for your main home\n\u2022 deleting a home: `/delhome <home name>`\n\u2022 moving a home: `/movehome <home name>`\n\u2022 listing all of your homes: `/homes`\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Warps",
+      "value": "Warps are teleporting points, such as homes, but everyone can use and edit them. Their coordinates are posted in <#942007917589200918>.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLes *warps* sont comme les *homes* mais tout le monde peut les utiliser et les modifier. Leurs coordonn\u00e9es sont post\u00e9es dans <#942007917589200918>.\n\n\u2022 setting a warp: `/setwarp <warp name>`\n\u2022 teleporting to a warp: `/warp <warp name>`\n\u2022 deleting a warp: `/delwarp <warp name>`\n\u2022 moving a warp: `/movewarp <warp name>`\n\u2022 listing all of the warps: `/warps`\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Teleport",
+      "value": "\u2022 teleporting to the world spawn: `/spawn`\n\u2022 teleporting to another player: `/tpa <player>`\n\u2022 inviting another player to teleport to you: `/tpahere <player>`\n\u2022 teleporting to your previous location (before your last teleport or before dying): `/back`\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Graves",
+      "value": "When dying, your inventory and part of your XP will be kept in a grave at the coordinates where you died. Right-clicking on it will make you retrieve everything.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nEn mourant, votre inventaire et une partie de votre XP seront conserv\u00e9s dans une tombe aux coordonn\u00e9es o\u00f9 vous \u00eates mort. En faisant un clic droit dessus, vous pourrez tout r\u00e9cup\u00e9rer.\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "TreeAssist & VeinMiner",
+      "value": "As a time saver, chopping trees with an axe and mining some materials with the right tool (pickaxe for ores, shovel for gravel and so on) will be done instantly. However, your tool's durability will be impacted the same way as if you had mined one block at a time and you will collect the same amount of ressources.\nSneaking cancels this effect, in case you only want to break specific blocks.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nPour gagner du temps, couper des arbres avec une hache et miner certains mat\u00e9riaux avec le bon outil (pioche pour les minerais, pelle pour le gravier, etc.) se fait instantan\u00e9ment. Cela dit, la durabilit\u00e9 de votre outil sera impact\u00e9e de la m\u00eame mani\u00e8re que si vous aviez min\u00e9 un bloc \u00e0 la fois et vous collecterez la m\u00eame quantit\u00e9 de ressources.\nLe sneak annule cet effet, au cas o\u00f9 vous ne voulez casser que certains blocs.\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Armored elytra",
+      "value": "To wear elytra and a chestplate at the same time, throw both items on an anvil and they will merge. You can separate them by throwing the armored elytra on a grindstone.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nPour porter des \u00e9lytres et un plastron en m\u00eame temps, jetez les deux items sur une enclume et ils seront fusionn\u00e9s. Vous pouvez les s\u00e9parer en jetant l'*armored elytra* sur une meule.\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Mob grief",
+      "value": "The `mobGriefing` gamerule is set to `true` but creepers and ghasts deal damage without breaking surrounding blocks. Creepers will also explode in \"confettis\" (firework stars), which still deals damage.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLa gamerule `mobGriefing` est sur `true` mais les creepers et les ghasts font des d\u00e9g\u00e2ts sans casser les blocs autour. Les creepers exploseront d'ailleurs en \"confettis\" (\u00e9toiles de feu d'artifice), qui infligent toujours des d\u00e9g\u00e2ts.",
+      "inline": false
+    }
+  ]
+}

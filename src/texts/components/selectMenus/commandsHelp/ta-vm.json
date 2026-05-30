@@ -1,0 +1,8 @@
+{
+  "color": "aa22cc",
+  "fields": [{
+    "name": "TreeAssist & VeinMiner",
+    "value": "As a time saver, chopping trees with an axe and mining some materials with the right tool (pickaxe for ores, shovel for gravel and so on) will be done instantly. However, your tool's durability will be impacted the same way as if you had mined one block at a time and you will collect the same amount of ressources.\nSneaking cancels this effect, in case you only want to break specific blocks.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nPour gagner du temps, couper des arbres avec une hache et miner certains mat\u00e9riaux avec le bon outil (pioche pour les minerais, pelle pour le gravier, etc.) se fait instantan\u00e9ment. Cela dit, la durabilit\u00e9 de votre outil sera impact\u00e9e de la m\u00eame mani\u00e8re que si vous aviez min\u00e9 un bloc \u00e0 la fois et vous collecterez la m\u00eame quantit\u00e9 de ressources.\nLe sneak annule cet effet, au cas o\u00f9 vous ne voulez casser que certains blocs.",
+    "inline": false
+  }]
+}

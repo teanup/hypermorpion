@@ -1,0 +1,9 @@
+{
+  "color": "ee2222",
+  "fields": [
+    {
+      "name": "Removed role / rôle retiré",
+      "value": "»\u2000<@&${role}>"
+    }
+  ]
+}

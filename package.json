@@ -1,0 +1,40 @@
+{
+  "name": "hypermorpion",
+  "version": "1.0.0",
+  "description": "HyperMorpion & other games bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "start:dev": "ts-node-dev src/index.ts",
+    "start:prod": "node dist/index.js",
+    "clear": "ts-node src/clear-commands.ts",
+    "clear:dev": "ts-node-dev src/clear-commands.ts",
+    "clear:prod": "node dist/clear-commands.js",
+    "build": "tsc",
+    "watch": "tsc -w && sed -i 's/\\.ts/\\.js/g' dist/*/*.js",
+    "fix": "sed -i 's/\\.ts/\\.js/g' dist/structures/Client.js",
+    "buildx": "tsc && sed -i 's/\\.ts/\\.js/g' dist/structures/Client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oligonyx/HyperMorpion.git"
+  },
+  "author": "peanut#4445",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oligonyx/HyperMorpion/issues"
+  },
+  "homepage": "https://github.com/oligonyx/HyperMorpion#readme",
+  "dependencies": {
+    "@types/glob": "^8.1.0",
+    "@types/node": "^18.15.11",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "glob": "^10.1.0",
+    "modern-gif": "^1.1.4",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.4"
+  }
+}

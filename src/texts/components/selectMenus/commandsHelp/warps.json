@@ -1,0 +1,9 @@
+
+{
+  "color": "aa22cc",
+  "fields": [{
+    "name": "Warps",
+    "value": "Warps are teleporting points, such as homes, but everyone can use and edit them. Their coordinates are posted in <#942007917589200918>.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLes *warps* sont comme les *homes* mais tout le monde peut les utiliser et les modifier. Leurs coordonn\u00e9es sont post\u00e9es dans <#942007917589200918>.\n\n\u2022 setting a warp: `/setwarp <warp name>`\n\u2022 teleporting to a warp: `/warp <warp name>`\n\u2022 deleting a warp: `/delwarp <warp name>`\n\u2022 moving a warp: `/movewarp <warp name>`\n\u2022 listing all of the warps: `/warps`",
+    "inline": false
+  }]
+}

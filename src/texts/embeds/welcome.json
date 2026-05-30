@@ -1,0 +1,16 @@
+{
+  "color": "88cc44",
+  "title": "Welcome to the server!",
+  "fields": [
+    {
+      "name": "Rules",
+      "value": "\u00bb\u2000be respectful with everyone\n\u00bb\u2000don't send any NSFW or sensitive content\n\u00bb\u2000don't spam channels\n\u00bb\u2000never impersonate other players in Minecraft (using their username)\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\n\u00bb\u2000soyez respectueux avec tout le monde\n\u00bb\u2000n'envoyez aucun contenu NSFW ou sensible\n\u00bb\u2000ne spammez pas les salons\n\u00bb\u2000ne vous faites jamais passer pour un autre joueur dans Minecraft (en utilisant leur username)\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "Invite Link",
+      "value": "```\nhttps://craft.peanut.tf/invite\n```",
+      "inline": false
+    }
+  ]
+}

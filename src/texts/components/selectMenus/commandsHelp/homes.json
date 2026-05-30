@@ -1,0 +1,8 @@
+{
+  "color": "aa22cc",
+  "fields": [{
+    "name": "Homes",
+    "value": "Homes are your personal teleporting points: you are the only one to access them.\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLes *homes* sont vos points de t\u00e9l\u00e9portations personnels : vous seuls y avez acc\u00e8s.\n\n\u2022 setting a home: `/sethome <home name>`\n\u2022 setting a home as your main home: `/setmainhome <home name>`\n\u2022 teleporting to a home: `/home <home name>` or `/home` for your main home\n\u2022 deleting a home: `/delhome <home name>`\n\u2022 moving a home: `/movehome <home name>`\n\u2022 listing all of your homes: `/homes`",
+    "inline": false
+  }]
+}

@@ -1,0 +1,17 @@
+{
+  "color": "eeaa00",
+  "title": "Ping Roles",
+  "description": "Select your ping roles to be @mentioned when special events are happening (click on the matching buttons).\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nS\u00e9lectionnez vos ping roles pour recevoir des @mentions lors d'\u00e9v\u00e9nements sp\u00e9ciaux (cliquez sur les boutons correspondants).\n\u200b",
+  "fields": [
+    {
+      "name": "\u26cf \u2000 Minecraft",
+      "value": "for playing Minecraft together\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\npour jouer \u00e0 Minecraft ensemble\n\u200b",
+      "inline": false
+    },
+    {
+      "name": "\ud83c\udfb2 \u2000 Mini-Games",
+      "value": "for playing Discord games or other online games\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\npour jouer \u00e0 des jeux Discord ou d'autres jeux en ligne",
+      "inline": false
+    }
+  ]
+}

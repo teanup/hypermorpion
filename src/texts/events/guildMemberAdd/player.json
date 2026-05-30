@@ -1,0 +1,4 @@
+{
+  "color": "88cc44",
+  "description": "**Welcome, <@${userId}>** :wave:\nRead through <#${infoChannel}> for information about the server join the Minecraft server at IP address `craft.peanut.tf` when you feel like playing!\n**~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~**\nLisez <#${infoChannel}> pour des informations à propos du serveur et rejoignez le serveur Minecraft \u00e0 l'adresse `craft.peanut.tf` lorsque vous en avez envie !"
+}

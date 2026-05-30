@@ -1,0 +1,9 @@
+{
+  "color": "22ee00",
+  "fields": [
+    {
+      "name": "Added role / rôle ajouté",
+      "value": "»\u2000<@&${role}>"
+    }
+  ]
+}

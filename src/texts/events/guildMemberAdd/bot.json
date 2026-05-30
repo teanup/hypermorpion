@@ -1,0 +1,5 @@
+{
+  "color": "5865f2",
+  "title": "New bot added: ${botName}",
+  "description": "<@${userId}>"
+}
